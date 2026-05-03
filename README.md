@@ -1,8 +1,8 @@
 # OUSTOV CONVERTER (Конвертер Устова)
-### Project: Unified Power & Propulsion Platform / "Matryoshka" Architecture
+### Project: Unified Power & Propulsion Platform / Architecture: "Matryoshka"
 
 **Author:** Askar OUSTOV (Аскар УСТОВ)  
-**Status:** Official Prior Art Publication (Acoustics, Lift & Elytron Aerodynamics)  
+**Status:** Official Prior Art Publication / Patent Pending  
 **Release:** 2026
 
 ---
@@ -11,24 +11,23 @@
 This document establishes the author's exclusive priority over the discovery and technical implementation of the **OUSTOV-Effect** — a physical phenomenon of programmed resonant collapse of ionic clusters in a gaseous medium.
 
 The OUSTOV-Effect enables:
-*   **Acoustic Generation:** Inertia-free sound reproduction via "Oustov Litre" modulation.
-*   **Propulsive Lift Force:** Directed kinetic vectoring via asymmetrical ion-cluster implosion.
-*   **Boundary Layer Control:** Active manipulation of gas flow around the hull.
+*   **Acoustic Generation:** Inertia-free sound reproduction via "Oustov Litre" volume quantization.
+*   **Propulsive Lift Force:** Directed kinetic vectoring via asymmetrical ion-cluster implosion and active atmospheric displacement.
+*   **Boundary Layer Control:** Active manipulation of gas flow around the hull using the EEC system.
 
-## 2. Technical Framework: "MATRYOSHKA" (Level I)
+## 2. Technical Framework & Engineering Claims
 
-### Engineering Claims:
-1.  **Cascade Coaxial Topology:** A system of nested cylindrical electrodes creating a multi-stage ionization gradient for high-density charge distribution.
-2.  **The "108" Resonance Constant:** All vibrational and pulse-width modulation (PWM) parameters are synchronized with the **"108" harmonic base**. This constant is mandatory for stabilizing the OUSTOV-Effect.
-3.  **Active Elytron System:** Structural resonant surfaces (elytra) utilizing the OUSTOV-Effect to create pressure differentials for enhanced lift, mimicking coleoptera bio-propulsion.
-4.  **External Equipotential Flow (EEC Hull Wrap):** Utilizing the External Equipotential Circuit to create an electronic cushion, ensuring laminar boundary layer attachment and near-zero aerodynamic resistance.
-5.  **Atmospheric Displacement (η-res 50):** The system is capable of achieving positive buoyancy. At a resonance constant of η=50, the generated lift vector (F-lift) exceeds the gravitational constant.
+1.  **"Matryoshka" Cascade Architecture:** A multi-stage medium accelerator consisting of concentric cylindrical cascades. The number and distribution of emitters are strictly governed by the **Golden Ratio Multiplicity Law**:
+    $$\Phi = \frac{1+\sqrt{5}}{2} \approx 1.618$$
+2.  **Bionic Injection System (The Elytron):** An external bionic injector (elytra) equipped with carbon nanotubes, creating a localized vacuum zone above the surface and a high-pressure zone beneath.
+3.  **Active Equipotential Circuit (EEC / "Shirt"):** A zero-current modulation system operating in the frequency range of **1.2 – 3.0 MHz**. This allows for precise thrust vectoring and volumetric potential control without direct power consumption in the control circuit.
+4.  **Volume Quantization (Oustov Litre):** Achievement of a quantization coefficient of **1:50** (η=50), where the work performed by the resonant medium exceeds the ambient resistance by a factor of 50.
+5.  **The "108" Resonance Constant:** Fundamental synchronization base for all PWM and vibrational parameters, ensuring the stability of the ionic cloud.
+6.  **Energy Recuperation:** Harvesting back-EMF and kinetic energy from cluster collapse into capacitive copper-mesh armor for system self-sustenance.
 
-## 3. Intellectual Property & Usage Restrictions
-*   **All Rights Reserved.** This publication serves as an official notice of **Prior Art**. 
-*   **Patent Pending:** Intellectual property protection and global patenting are in progress. 
-*   **Non-Target Use:** Any unauthorized military or offensive application is strictly prohibited.
-*   For licensing, industrial partnership, or technical audit inquiries, contact the author: **Askar OUSTOV**.
+## 3. Security & Usage Restrictions
+*   **Programmatic Desynchronization:** The system features a built-in protection mechanism against non-target military use. Any unauthorized attempt to utilize the converter for offensive purposes triggers a mandatory hardware-level resonance desynchronization.
+*   **Intellectual Property:** This publication serves as an official notice of **Prior Art**. All rights reserved. Commercial use, reproduction, or adaptation of the "Matryoshka" architecture without the author's express permission is prohibited.
 
 ---
 *© 2026 Askar Oustov. Strategic release for international priority fixation.*
